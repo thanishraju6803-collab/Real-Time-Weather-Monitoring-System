@@ -1,0 +1,7 @@
+id,city,temperature,humidity,wind_speed,pressure,weather_condition,recorded_at
+12,Chennai,30.18,71,7.79,1009.0,Overcast Clouds,2026-10-26T12:29:17+05:30
+11,Rāzampeta,31.55,50,5.03,1010.0,Overcast Clouds,2026-10-26T12:18:37+05:30
+10,Hindupur,23.73,89,1.84,1013.0,Overcast Clouds,2026-10-24T08:49:42+05:30
+9,Kadapa,25.73,84,1.6,1013.0,Moderate Rain,2026-10-22T22:43:50+05:30
+4,Anekal,24.66,85,4.6,1016.0,Overcast Clouds,2026-10-22T09:39:03+05:30
+1,Bengaluru,24.71,80,3.3,1016.0,Overcast Clouds,2026-10-22T09:37:31+05:30
